@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  evilchart:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-07-15T16:58:41.85604651+03:00"
+    description: skillup for helm
+    digest: 737390e9c2cbf8c71d5f8c49793a55374397164d95fa89823204e3c3dbff0ab3
+    name: evilchart
+    type: application
+    urls:
+    - https://fantastic-charts.storage.googleapis.com/evilchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-15T16:58:41.851808022+03:00"
