@@ -9,6 +9,6 @@ entries:
     name: evilchart
     type: application
     urls:
-    - https://fantastic-charts.storage.googleapis.com/evilchart-0.1.0.tgz
+    - https://metacringer.github.io/helm-repo/evilchart-0.1.0.tgz
     version: 0.1.0
 generated: "2021-07-15T16:58:41.851808022+03:00"
